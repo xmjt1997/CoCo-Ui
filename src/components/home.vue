@@ -1,13 +1,10 @@
 <template>
-  <h1>你好</h1>
+  <div class="home">home</div>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-
+<style scoped>
 </style>
