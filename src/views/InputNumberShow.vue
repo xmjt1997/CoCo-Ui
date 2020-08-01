@@ -3,7 +3,7 @@
     <h2>默认计数器</h2>
     <cz-iptnum></cz-iptnum>
     <h2>负数计数器</h2>
-    <cz-iptnum :min="-2" :count="2"></cz-iptnum>
+    <cz-iptnum :min="-100" :count="2"></cz-iptnum>
     <h2>条件计数器</h2>
     <cz-iptnum :count="2"></cz-iptnum>
     <h2>尺寸</h2>
